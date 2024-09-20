@@ -5,4 +5,3 @@ I will try to share here all my findings researching this or that.
 Cheers!
 
 Boyan Petrov as fobi
-bb_petrov@yahoo.com
